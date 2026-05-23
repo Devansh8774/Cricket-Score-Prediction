@@ -54,7 +54,7 @@ cities = ['Colombo',
  'Christchurch',
  'Trinidad']
 
-st.title('IPL Match Probability Prediction System')
+st.title('Cricket Score Prediction ')
 
 col1, col2 = st.columns(2)
 
